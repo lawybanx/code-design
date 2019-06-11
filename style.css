@@ -43,6 +43,8 @@ li a {
 
 article {
   padding: 40px;
+  font-size: 22px;
+  text-align: center
 }
 
 footer {
