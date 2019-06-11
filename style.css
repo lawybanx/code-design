@@ -47,6 +47,10 @@ article {
   text-align: center
 }
 
+article img {
+  width: 100%;
+}
+
 footer {
   background: #151316;
   color: white;
